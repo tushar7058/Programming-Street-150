@@ -1,4 +1,3 @@
-import java.util.*;
 class evenodd{
 	public static void main(String[]args){
 		int num = 10;
